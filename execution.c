@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * execution - executes comma nds entered by users
+ * execution - executes commands entered by users
  *@cp: command
  *@cmd:vector array of pointers to commands
  * Return: 0
